@@ -11,3 +11,4 @@ export PS1="\[\e[36;40m\]\u@\h:[\w] \$?\n$ \[\e[0m\]"
 
 alias v='vim'
 alias g='grep'
+alias l='ls -alt'
