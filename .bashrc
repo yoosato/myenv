@@ -7,7 +7,7 @@ fi
 
 
 # User specific aliases and functions
-export PS1="\[\e[36;40m\]\u@\h:[\w] \$?\n$ \[\e[0m\]"
+export PS1="\[\e[35;40m\]\u@\h\[\e[0m\]:[\w] rc:[\$?]\n$"
 
 alias v='vim'
 alias g='grep'
