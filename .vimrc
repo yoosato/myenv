@@ -29,8 +29,8 @@ set tabstop=4
 set whichwrap=b,s,h,l,<,>,[,]
 "検索をファイルの先頭へループしない
 set nowrapscan
-"set colorscheme darkblue 
-set colorscheme peachpuff
+
+colorscheme desert 
 
 inoremap <M-j> <Down>
 inoremap <M-k> <Up>
